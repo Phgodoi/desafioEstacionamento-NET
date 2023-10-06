@@ -108,10 +108,5 @@ namespace DesafioFundamentos.Models
                 Console.WriteLine("Não há veículos estacionados.");
             }
         }
-
-        public void CalcularDesconto()
-        {
-
-        }
     }
 }
